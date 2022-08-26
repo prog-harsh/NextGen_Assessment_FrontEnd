@@ -4,6 +4,6 @@ Heroku - https://car-bidding.herokuapp.com/
 
 ## Steps to follow
 
-Step 1 - Open the project directory.
-Step 2 - npm install
-Step 3 - npm start
+Step 1 - Open the project directory.<br>
+Step 2 - npm install <br>
+Step 3 - npm start <br>
